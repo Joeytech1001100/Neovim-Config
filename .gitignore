@@ -1,0 +1,10 @@
+# Sync & Environment metadata
+.hivemind/
+.hivemind-tag
+
+# Local custom themes
+local-themes/
+
+# Logs and system runtime
+*.log
+.DS_Store
